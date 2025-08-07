@@ -1,4 +1,4 @@
 # git-demo
-<h1>This is my demo Git Repository</h1>
+<h6>This is my demo Git Repository</h6>
 <br>
 <p>Author - User</p>
