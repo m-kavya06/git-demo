@@ -1,0 +1,13 @@
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\bin\Debug\CollegeManageSystem.Dashboard.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\bin\Debug\CollegeManageSystem.Dashboard.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\bin\Debug\CollegeManagementSystem.Business.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\bin\Debug\CollegeManagementSystem.Data.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\bin\Debug\CollegeManagementSystem.Business.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\bin\Debug\CollegeManagementSystem.Data.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\obj\Debug\CollegeManagementSystem.Dashboard.csproj.AssemblyReference.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\obj\Debug\CollegeManagementSystem.Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\obj\Debug\CollegeM.1031EAA2.Up2Date
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\obj\Debug\CollegeManageSystem.Dashboard.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManageSystem.Dashboard\obj\Debug\CollegeManageSystem.Dashboard.pdb

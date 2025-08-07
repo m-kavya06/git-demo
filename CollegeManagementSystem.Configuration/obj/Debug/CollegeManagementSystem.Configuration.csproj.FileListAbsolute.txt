@@ -1,0 +1,6 @@
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Configuration\bin\Debug\CollegeManagementSystem.Configuration.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Configuration\bin\Debug\CollegeManagementSystem.Configuration.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Configuration\obj\Debug\CollegeManagementSystem.Configuration.csproj.AssemblyReference.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Configuration\obj\Debug\CollegeManagementSystem.Configuration.csproj.CoreCompileInputs.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Configuration\obj\Debug\CollegeManagementSystem.Configuration.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Configuration\obj\Debug\CollegeManagementSystem.Configuration.pdb

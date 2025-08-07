@@ -1,0 +1,14 @@
+[
+  {
+    "RollNumber": 1,
+    "CourseId": 650,
+    "Date": "15-07-2025",
+    "IsPresent": true
+  },
+  {
+    "RollNumber": 2,
+    "CourseId": 651,
+    "Date": "22-07-2025",
+    "IsPresent": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "FacultyId": 121,
+    "Name": null,
+    "Department": "cse",
+    "Email": "preethi@gmail.com"
+  },
+  {
+    "FacultyId": 122,
+    "Name": null,
+    "Department": "csm",
+    "Email": "srinivas@gmail.com"
+  },
+  {
+    "FacultyId": 123,
+    "Name": "Sathish",
+    "Department": "eee",
+    "Email": "sathish@gamil.com"
+  }
+]

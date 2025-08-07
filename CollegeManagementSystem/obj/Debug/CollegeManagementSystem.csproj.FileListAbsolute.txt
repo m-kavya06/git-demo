@@ -1,0 +1,17 @@
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.exe.config
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.exe
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeM.F069A370.Up2Date
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.exe
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\obj\Debug\CollegeManagementSystem.exe.config
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.Business.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.Data.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.Business.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManagementSystem.Data.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManageSystem.Dashboard.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem\bin\Debug\CollegeManageSystem.Dashboard.pdb

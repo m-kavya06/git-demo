@@ -1,0 +1,12 @@
+[
+  {
+    "CourseId": 650,
+    "CourseName": "AI",
+    "Credits": 4
+  },
+  {
+    "CourseId": 651,
+    "CourseName": "ML",
+    "Credits": 3
+  }
+]

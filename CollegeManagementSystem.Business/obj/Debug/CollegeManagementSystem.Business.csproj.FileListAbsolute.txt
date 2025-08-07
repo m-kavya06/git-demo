@@ -1,0 +1,11 @@
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\bin\Debug\CollegeManagementSystem.Business.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\bin\Debug\CollegeManagementSystem.Business.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\bin\Debug\CollegeManagementSystem.Data.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\bin\Debug\CollegeManagementSystem.Data.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\obj\Debug\CollegeManagementSystem.Business.csproj.AssemblyReference.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\obj\Debug\CollegeManagementSystem.Business.csproj.CoreCompileInputs.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\obj\Debug\CollegeM.0F13A3CF.Up2Date
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\obj\Debug\CollegeManagementSystem.Business.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\CollegeManagementSystem.Business\obj\Debug\CollegeManagementSystem.Business.pdb

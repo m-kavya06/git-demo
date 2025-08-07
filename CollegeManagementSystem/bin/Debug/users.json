@@ -1,0 +1,37 @@
+[
+  {
+    "Username": "admin",
+    "Password": "XXXXXXX",
+    "Role": "admin"
+  },
+  {
+    "Username": "student",
+    "Password": "XXXXXXX",
+    "Role": "student"
+  },
+  {
+    "Username": "faculty",
+    "Password": "XXXXXXX",
+    "Role": "faculty"
+  },
+  {
+    "Username": "student1",
+    "Password": "student234",
+    "Role": "student"
+  },
+  {
+    "Username": "admin1",
+    "Password": "admin234",
+    "Role": "admin"
+  },
+  {
+    "Username": "faculty1",
+    "Password": "faculty234",
+    "Role": "faculty"
+  },
+  {
+    "Username": "admin2",
+    "Password": "admin345",
+    "Role": "admin"
+  }
+]

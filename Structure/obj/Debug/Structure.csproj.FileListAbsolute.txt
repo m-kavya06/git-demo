@@ -1,0 +1,7 @@
+C:\Users\mkavya\source\repos\CollegeManagementSystem\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\mkavya\source\repos\CollegeManagementSystem\Structure\bin\Debug\Structure.dll.config
+C:\Users\mkavya\source\repos\CollegeManagementSystem\Structure\bin\Debug\Structure.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\Structure\bin\Debug\Structure.pdb
+C:\Users\mkavya\source\repos\CollegeManagementSystem\Structure\obj\Debug\Structure.dll
+C:\Users\mkavya\source\repos\CollegeManagementSystem\Structure\obj\Debug\Structure.pdb

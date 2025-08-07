@@ -1,0 +1,58 @@
+[
+  {
+    "RollNumber": 1,
+    "Phone": 9392886064,
+    "Name": "Kavya",
+    "Department": "cse",
+    "Email": "kavya@gmail.com"
+  },
+  {
+    "RollNumber": 2,
+    "Phone": 9594095192,
+    "Name": "Priya",
+    "Department": "eee",
+    "Email": "priya@gmail.com"
+  },
+  {
+    "RollNumber": 3,
+    "Phone": 7883457231,
+    "Name": "Pushpa",
+    "Department": "ece",
+    "Email": "pushpa@gmail.com"
+  },
+  {
+    "RollNumber": 4,
+    "Phone": 8992697432,
+    "Name": "Akhila",
+    "Department": "csm",
+    "Email": "akhila@gmail.com"
+  },
+  {
+    "RollNumber": 5,
+    "Phone": 8734217856,
+    "Name": "Nikhila",
+    "Department": "it",
+    "Email": "nikhila@gamil.com"
+  },
+  {
+    "RollNumber": 6,
+    "Phone": 1234567893,
+    "Name": "Madhuri",
+    "Department": "ss",
+    "Email": "madhuri@gmail.com"
+  },
+  {
+    "RollNumber": 7,
+    "Phone": 8756439865,
+    "Name": "Shreya",
+    "Department": "mech",
+    "Email": "shreya@gmail.com"
+  },
+  {
+    "RollNumber": 8,
+    "Phone": 8756342195,
+    "Name": "madduri",
+    "Department": "eee",
+    "Email": "kavya@gmail.com"
+  }
+]
